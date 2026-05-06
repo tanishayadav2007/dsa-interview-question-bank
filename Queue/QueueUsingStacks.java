@@ -1,6 +1,6 @@
 /**
  * Problem: Queue Implementation using Two Stacks
- *
+ *Company: Microsoft
  * Description:
  * Implement a queue using two stacks such that it follows FIFO (First In First Out).
  * The queue should support standard operations like enqueue and dequeue.
